@@ -9,7 +9,7 @@
 	struct cypher {
 		char c;
 		char* leet[4];
-	} leetdict [] = 
+	} leetdict 
 		{'a', {"4", "4", "@", "/-\\"}},
 		{'b', {"b", "8", "|3", "|}"}},
 		{'c', {"c", "(", "<", "{"}},
